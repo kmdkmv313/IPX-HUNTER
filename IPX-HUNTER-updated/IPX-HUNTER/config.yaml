@@ -1,0 +1,5 @@
+
+# API Configuration for IPX-HUNTER
+
+vpnapi_key: "YOUR_VPNAPI_KEY"
+shodan_api_key: "YOUR_SHODAN_API_KEY"
