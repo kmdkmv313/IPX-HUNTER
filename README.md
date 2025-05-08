@@ -31,15 +31,21 @@ shodan.io
 
 
 🔑 الخطوة 1: تعديل مفاتيح API
+
 افتح ملف config.yaml داخل المجلد وعدّل المفاتيح:
 
+
 vpnapi_key: "أدخل مفتاح VPNAPI هنا"
+
 shodan_api_key: "أدخل مفتاح Shodan هنا"
+
 
 
 ▶️ الخطوة 2: تشغيل الأداة
 
+
 pip install requests folium pyyaml
+
 python main.py
 
 
